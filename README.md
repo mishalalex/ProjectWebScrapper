@@ -1,7 +1,6 @@
 # Project NASS – News Archives Scraper & Searcher
 
-**Web Scraper & Search Engine for Archived News Articles**  
-*Built with Python & BeautifulSoup*
+**Web Scraper & Search Engine for Archived News Articles** | *Built with Python & BeautifulSoup*
 
 ---
 

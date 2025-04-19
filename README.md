@@ -7,7 +7,8 @@
 
 ## 📌 Overview
 **Project NASS** is a self-initiated endeavor that showcases my proficiency in Python and web scraping. 
-I developed this mini project from scratch to scrape archived news articles from [The Hindu](https://www.thehindu.com/archive/) for the year 2010 and implement a search functionality to query these article in order to test my own knowledge and skills.
+
+It is a command line application with no UI.
 
 ---
 

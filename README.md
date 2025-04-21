@@ -71,9 +71,6 @@ It serves as a testament to my ability to self-learn and implement complex funct
 
 For any queries or suggestions, feel free to rech ou:
 
-- GitHub: [mishalalex](https://github.com/misalaex)
 - Email: [mishalalex@protonmail.com]
 
 ---
-
-Feel free to customize this README further by adding badges, screenshots, or additional sections as needed. If you need assistance with any of these enhancements, let me know! 
